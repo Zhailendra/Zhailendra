@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhailendra&show_icons=true&locale=en&layout=compact" alt="zhailendra" /></p>
 
-![Zhailendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhailendra&show_icons=true&theme=transparent)
+![Zhailendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhailendra&show_icons=true&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhailendra&" alt="zhailendra" /></p>
