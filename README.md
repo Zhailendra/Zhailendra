@@ -1,1 +1,1 @@
-![Zhailendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhailendra&show_icons=true&theme=radical)
+![Zhailendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhailendra&show_icons=true&theme=tokyonight)
