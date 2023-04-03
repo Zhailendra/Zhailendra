@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **several computer languages ​​such as c++, html/css, JavaScript...**
 
-- 👨‍💻 All of my projects are available at [In progress...](In progress...)
+- 👨‍💻 All of my projects are available at (In progress...)
 
 - 📫 How to reach me **shailendrablondel@outlook.fr**
 
