@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhailendra&label=Profile%20views&color=9141ac&style=plastic" alt="zhailendra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhailendra" alt="zhailendra" /></a> </p>
-
 - 🌱 I’m currently learning **several computer languages ​​such as c++, html/css, JavaScript...**
 
 - 👨‍💻 All of my projects are available at [In progress...](In progress...)
