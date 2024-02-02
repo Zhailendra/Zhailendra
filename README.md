@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhailendra&label=Profile%20views&color=9141ac&style=plastic" alt="zhailendra" /> </p>
 
-- 🌱 I’m currently learning **several computer languages ​​such as c++, html/css, JavaScript...**
+- 🌱 I’m currently learning **several computer languages ​​such as C/C++, Python, React, Next Js, Flutter...**
 
 - 👨‍💻 All of my projects are available at [In progress...](In progress...)
 
