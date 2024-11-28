@@ -21,9 +21,8 @@ jobs:
         with:
           github_user_name: zhailendra
           outputs:
-            dist/github-snake.svg
-          # Adding the 'theme' option for dark mode
-          theme: dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
       - run: git status
 
