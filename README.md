@@ -21,8 +21,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Zhailendra/Zhailendra/output/github-contribution-grid-snake.svg" />
 </picture>
 
-Computer science student passionate about video game development, with a strong foundation in general IT and cybersecurity.
-
 ---
 
 ### 🚀 About Me:
