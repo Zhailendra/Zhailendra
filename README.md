@@ -21,10 +21,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Zhailendra/Zhailendra/output/github-contribution-grid-snake.svg" />
 </picture>
 
-# Hi 👋, I'm 
-### Welcome to my GitHub profile! I'm a computer science student passionate about video game development, with a strong foundation in general IT and cybersecurity.
-
-![Profile Views](https://komarev.com/ghpvc/?username=zhailendra&label=Profile%20views&color=9141ac&style=flat)
+Computer science student passionate about video game development, with a strong foundation in general IT and cybersecurity.
 
 ---
 
@@ -39,7 +36,6 @@
 ### 🔧 Languages and Tools:
 
 <p align="left">
-  <div>Programming Languages</div>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a> 
@@ -137,10 +133,6 @@
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
   </a>
 </p>
-
----
-
-### 📈 GitHub Stats:
 
 ---
 
